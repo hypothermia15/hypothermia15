@@ -1,0 +1,23 @@
+# Keeps the "Latest writing" list in README.md in sync with the website's RSS feed.
+# The list sits between the BLOG-POST-LIST:START / :END markers in README.md.
+name: Latest posts from miracbarisusta.com
+
+on:
+  schedule:
+    - cron: "17 3 * * *" # every day at 03:17 UTC (06:17 Türkiye)
+  workflow_dispatch: # manual run from the Actions tab
+
+permissions:
+  contents: write # the job commits the updated README
+
+jobs:
+  update-readme:
+    name: Update README with the latest website posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://miracbarisusta.com/feed.xml"
+          max_post_count: 5
+          commit_message: "Update latest posts from miracbarisusta.com"

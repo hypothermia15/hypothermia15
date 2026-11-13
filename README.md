@@ -32,11 +32,11 @@ Full list: [publications](https://miracbarisusta.com/yayinlar/) · [ORCID](https
 Plain-language articles for families on my website (in Turkish):
 
 <!-- BLOG-POST-LIST:START -->
+- [Genetikse boşuna mı? DEHB, otizm ve kalıtsallık](https://miracbarisusta.com/yazilar/genetikse-bosuna-mi-kalitsallik/)
+- [Sınıfın en küçüğü: doğum ayı, kesme puanı ve DEHB tanısı](https://miracbarisusta.com/yazilar/sinifin-en-kucugu-dogum-ayi-ve-dehb/)
+- [Bildirim, dopamin ve ergen: ekran ne kadar zararlı, ne zaman sorun?](https://miracbarisusta.com/yazilar/bildirim-dopamin-ve-ergen/)
 - [Otizmli çocuklarda rutin değişikliklerine bağlı yıkıcı davranışlar: erişilebilir müdahaleler](https://miracbarisusta.com/yazilar/otizmde-rutin-degisikligi-ve-yikici-davranis/)
 - [Çocuk küçük bir yetişkin değildir: ebeveynler için 5 temel bilgi](https://miracbarisusta.com/yazilar/cocuk-kucuk-bir-yetiskin-degildir/)
-- [Otizm tanıları neden bu kadar arttı? Catherine Lord ve Fred Volkmar ile bir söyleşiden notlar](https://miracbarisusta.com/yazilar/otizm-tanilarindaki-artis-lord-volkmar/)
-- [Otizmli çocuk büyüten anne babalarda tükenmişlik: evin kaç odalı olduğu neden önemli?](https://miracbarisusta.com/yazilar/otizm-ebeveyn-tukenmisligi-ve-ev/)
-- [DEHB tedavisi ne kadar sürmeli? 576 çocuğun beş yıllık izlemi](https://miracbarisusta.com/yazilar/dehb-tedavi-suresi-ve-gidis/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Contact

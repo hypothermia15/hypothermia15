@@ -18,6 +18,26 @@ I combine clinical work with research. I see children, adolescents and their fam
 - **[InsightADHD](https://miracbarisusta.com/insightadhd/)** *(in development)*: an AI-supported, automated neuropsychological test battery for ADHD assessment. Founder; leading clinical design and validation.
 - **Virtual parent interview simulation** *(pilot)*: AI-supported virtual parents and patients for training residents and medical students in clinical interviewing, and for OSCE assessment.
 
+## Interactive teaching tools
+
+Open, browser-based resources in Turkish for residents, medical students and families. Each has its own repository here, and the collection is on [miracbarisusta.com/rehberler](https://miracbarisusta.com/rehberler/).
+
+| Tool | What it is | Source |
+| --- | --- | --- |
+| [Kendini Test Et](https://miracbarisusta.com/kendini-test-et/) | Quiz with a pool of 1,500 questions, weighted towards child and adolescent psychiatry | [repo](https://github.com/hypothermia15/kendini-test-et) |
+| [Ruhsal Gelişim Atlası](https://miracbarisusta.com/ruhsal-gelisim-atlasi/) | 42 developmental theories compared on a single age axis | [repo](https://github.com/hypothermia15/ruhsal-gelisim-atlasi) |
+| [Psikofarmakoloji Rehberi](https://miracbarisusta.com/psikofarmakoloji-rehberi/) | Starting, titrating, monitoring and switching for 71 psychiatric medicines, with approval ages | [repo](https://github.com/hypothermia15/psikofarmarehber) |
+| [Çocuk Psikiyatrisinin Sanatı](https://miracbarisusta.com/cocuk-psikiyatrisi-sanati/) | Reading guide to Williams and Hill's *The Art of Child and Adolescent Psychiatry* | [repo](https://github.com/hypothermia15/cocuk-psikiyatrisi-sanati) |
+| [Psikodinamik Psikiyatri Okuma Rehberi](https://miracbarisusta.com/psikodinamik-okuma-rehberi/) | Reading guide to Gabbard's *Psychodynamic Psychiatry in Clinical Practice* through a child psychiatry lens | [repo](https://github.com/hypothermia15/psikodinamik-okuma-rehberi) |
+| [Davranışın Biyolojisi](https://miracbarisusta.com/davranisin-biyolojisi/) | Study notes on Sapolsky's Human Behavioral Biology lectures | [repo](https://github.com/hypothermia15/davranisin-biyolojisi) |
+| [Brain Rot mu?](https://miracbarisusta.com/brain-rot-mu/) | Guide to digital media use in children and adolescents | [repo](https://github.com/hypothermia15/brain-rot-mu) |
+| [Bipolar Manzarası](https://miracbarisusta.com/bipolar-manzarasi/) | Bipolar disorder as a dynamic energy landscape | [repo](https://github.com/hypothermia15/bipolar) |
+| [Dopamin Simülatörü](https://hypothermia15.github.io/dopamin-simulatoru/) | Interactive model of a dopamine synapse | [repo](https://github.com/hypothermia15/dopamin-simulatoru) |
+| [Dikkat ve İnhibisyon Görevleri](https://hypothermia15.github.io/dikkat-gorevleri/) | Stroop, N-back and Go/No-Go in the browser | [repo](https://github.com/hypothermia15/dikkat-gorevleri) |
+| [DEHB'de Bir Sonraki Adım](https://hypothermia15.github.io/dehb-sonraki-adim/) | Situation guide for parents of a child with ADHD | [repo](https://github.com/hypothermia15/dehb-sonraki-adim) |
+
+Several of these are Turkish adaptations of other people's open work: Psikofarmakoloji Rehberi ([lipsumation](https://github.com/lipsumation/psikofarmarehber)), Bipolar Manzarası ([ciessielski](https://github.com/ciessielski/bipolar)), Dopamin Simülatörü ([Stefano Caronia](https://github.com/stefanocaronia/dopamine-simulator)), Dikkat ve İnhibisyon Görevleri ([Cognitive Arcade](https://github.com/anyma-exe/cognitive-arcade)), DEHB'de Bir Sonraki Adım (Danya Dotan's How to ADHD) and Ruhsal Gelişim Atlası (Dr. Mehmet Tekden). Licences and credits are in each repository. The tools are for education and do not replace clinical assessment.
+
 ## Selected work
 
 - Kilincel S, Bulut F, Goksel P, **Usta MB**, Mutluer T, Kilincel O. Effectiveness of AI-enhanced virtual patients for psychiatric interview training in health professions education: a meta-analysis. *Front Med (Lausanne)*. 2026;13:1834636. [doi:10.3389/fmed.2026.1834636](https://doi.org/10.3389/fmed.2026.1834636)
@@ -48,6 +68,6 @@ Academic correspondence: miracbaris.usta@omu.edu.tr. This address is not used fo
 <details>
 <summary>Türkçe</summary>
 
-Ondokuz Mayıs Üniversitesi Tıp Fakültesi Çocuk ve Ergen Ruh Sağlığı ve Hastalıkları Anabilim Dalı'nda öğretim üyesiyim. Klinik çalışmayı araştırmayla birleştiriyor; yapay zekânın nörogelişimsel bozuklukların değerlendirilmesine ve hekim eğitimine nasıl katkı sağlayabileceği üzerinde çalışıyorum. Aileler için yazılar ve iletişim bilgileri [miracbarisusta.com](https://miracbarisusta.com) adresinde.
+Ondokuz Mayıs Üniversitesi Tıp Fakültesi Çocuk ve Ergen Ruh Sağlığı ve Hastalıkları Anabilim Dalı'nda öğretim üyesiyim. Klinik çalışmayı araştırmayla birlikte yürütüyorum. Yapay zekânın nörogelişimsel bozuklukların değerlendirilmesinde ve hekim eğitiminde nasıl kullanılabileceğini araştırıyorum. Asistanlar, öğrenciler ve aileler için hazırladığım etkileşimli rehberler [miracbarisusta.com/rehberler](https://miracbarisusta.com/rehberler/) adresinde. Aileler için yazılar ve iletişim bilgileri [miracbarisusta.com](https://miracbarisusta.com) adresinde.
 
 </details>

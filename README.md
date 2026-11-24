@@ -31,7 +31,7 @@ Open, browser-based resources in Turkish for residents, medical students and fam
 | [Psikodinamik Psikiyatri Okuma Rehberi](https://miracbarisusta.com/psikodinamik-okuma-rehberi/) | Reading guide to Gabbard's *Psychodynamic Psychiatry in Clinical Practice* through a child psychiatry lens | [repo](https://github.com/hypothermia15/psikodinamik-okuma-rehberi) |
 | [Davranışın Biyolojisi](https://miracbarisusta.com/davranisin-biyolojisi/) | Study notes on Sapolsky's Human Behavioral Biology lectures | [repo](https://github.com/hypothermia15/davranisin-biyolojisi) |
 | [Brain Rot mu?](https://miracbarisusta.com/brain-rot-mu/) | Guide to digital media use in children and adolescents | [repo](https://github.com/hypothermia15/brain-rot-mu) |
-| [Bipolar Manzarası](https://miracbarisusta.com/bipolar-manzarasi/) | Bipolar disorder as a dynamic energy landscape | [repo](https://github.com/hypothermia15/bipolar) |
+| [Bipolar Manzarası](https://hypothermia15.github.io/bipolar/) | Bipolar disorder as a dynamic energy landscape | [repo](https://github.com/hypothermia15/bipolar) |
 | [Dopamin Simülatörü](https://hypothermia15.github.io/dopamin-simulatoru/) | Interactive model of a dopamine synapse | [repo](https://github.com/hypothermia15/dopamin-simulatoru) |
 | [Dikkat ve İnhibisyon Görevleri](https://hypothermia15.github.io/dikkat-gorevleri/) | Stroop, N-back and Go/No-Go in the browser | [repo](https://github.com/hypothermia15/dikkat-gorevleri) |
 | [DEHB'de Bir Sonraki Adım](https://hypothermia15.github.io/dehb-sonraki-adim/) | Situation guide for parents of a child with ADHD | [repo](https://github.com/hypothermia15/dehb-sonraki-adim) |
